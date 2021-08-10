@@ -1,0 +1,41 @@
+.heading
+{
+font-size:35;
+width:100%;
+margin:0px;
+box-shadow:5px 5px 10px yellow;
+background-color: dodgerblue;
+color:cyan;
+}
+.items{
+float:none;
+background:purple;
+padding:10px;
+border-radius:20px;
+color: springgreen;
+box-shadow:5px 5px 10px yellow;
+}
+.heading_div
+{
+font-size: 20px;
+
+}
+.result_para_tag
+{
+background-color: blueviolet;
+box-shadow:5px 5px 10px rgb(25, 153, 228) ;
+font-size:20px;
+color: cyan;
+
+}
+.copy_right_footer
+{
+position: fixed;
+color:white;
+bottom:0;
+background:purple;
+width:100%;
+line-height:3;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
