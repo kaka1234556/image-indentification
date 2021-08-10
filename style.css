@@ -39,3 +39,10 @@ line-height:3;
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
 }
+canvas
+{
+border:5px solid purple;
+border-radius:20px;
+box-shadow:5px 5px 10px purple ;
+margin-top:150px;
+}
