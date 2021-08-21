@@ -43,6 +43,7 @@ canvas
 {
 border:5px solid purple;
 border-radius:20px;
-box-shadow:5px 5px 10px purple ;
-margin-top:150px;
+box-shadow:5px 5px 10px purple;
+margin-bottom: 50px;
+margin-top: 150px;
 }
